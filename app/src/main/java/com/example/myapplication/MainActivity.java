@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 //life's tough
-        //daycare
+        //daycdrctarebgd
     }
 }
 //Test2: Krishna wrote this
